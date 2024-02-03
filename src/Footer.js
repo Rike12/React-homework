@@ -7,15 +7,15 @@ export default function Footer() {
       <p className="footer">
         This project is coded by{" "}
         <a
-          href="https://www.linkedin.com/in/naomidewys"
+          href="https://www.linkedin.com/in/mutiat-adepoju"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Naomi De Wys
+          Mutiat Adepoju
         </a>
         , open-sourced on{" "}
         <a
-          href="https://github.com/naomidewys/react-weather-app"
+          href="https://github.com/Rike12/react-homework"
           target="_blank"
           rel="noopener noreferrer"
         >
@@ -23,7 +23,7 @@ export default function Footer() {
         </a>
         , and hosted on{" "}
         <a
-          href="https://react-weather-project-ndw.netlify.app/"
+          href="https://euphonious-cat-ab710c.netlify.app/"
           target="_blank"
           rel="noopener noreferrer"
         >
